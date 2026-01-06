@@ -30,8 +30,24 @@
 </p>
 
 - **前端**：JavaScript, TypeScript, Vue.js, React
-- **后端**：Nextjs,Java, Spring  
+- **后端**：Next.js,Java, Spring  
 - **工具**：Git, VS Code, IntelliJ IDEA  
+
+---
+
+### 📊 我的 GitHub 活动 / GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=light&hide_border=true&count_private=true&include_all_commits=true" alt="Morrow's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=light&hide_border=true&langs_count=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=light&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
