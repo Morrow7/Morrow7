@@ -12,11 +12,7 @@
 🛠️我的技术栈
 ### 🔧 我的技术栈 / Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,vue,react,nextjs,nodejs,java,Springboot,git,docker,vscode,IDEA,firebase&perline=8&theme=dark)
-
-- 前端：HTML, CSS, JavaScript, React, Next.js  
-- 后端：Node.js  
-- 工具：Git, Docker, VS Code  
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,TS,vue,react,nextjs,nodejs,python,java,springboot,git,docker,vscode,IDEA,firebase&perline=8&theme=dark)
 
 我的技能
 
