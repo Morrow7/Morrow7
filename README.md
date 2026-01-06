@@ -8,11 +8,12 @@
 ⚡ 我目前正在从零开始自学雅思。
 
  联系方式：susu997y@gmail.com
+ 我的推特：https://x.com/Morrow992887
 
 🛠️我的技术栈
 ### 🔧 我的技术栈 / Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,python,java,spring,git,Zed,vscode,idea,firebase&perline=8&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,python,java,spring,git,zed,vscode,idea,firebase&perline=8&theme=dark)
 
 
 
