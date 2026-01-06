@@ -12,16 +12,7 @@
 🛠️我的技术栈
 ### 🔧 我的技术栈 / Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,TS,vue,react,nextjs,nodejs,python,java,springboot,git,docker,vscode,IDEA,firebase&perline=8&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,python,java,spring,git,Zed,vscode,idea,firebase&perline=8&theme=dark)
 
-我的技能
 
-📊 我的 GitHub 活动
-GitHub 统计数据 热门语言
 
-🌐 联系我
-随时欢迎讨论技术、机遇，或者只是闲聊！
-
-Gmail GitHub
-
-访客数量
