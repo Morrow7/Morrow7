@@ -35,12 +35,16 @@
 
 ---
 
-#### 📊 我的 GitHub 活动 / GitHub Stats
+### 📊 我的 GitHub 活动 / GitHub Stats
 
+<!-- 第一行：整体统计卡片 + 语言卡片（并排靠左） -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Morrow7&show_icons=true&theme=light&hide_border=true&count_private=true&include_all_commits=true" alt="Morrow's GitHub Stats" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morrow7&layout=compact&theme=light&hide_border=true&langs_count=10" alt="Top Languages" />
 
+<div style="clear:both;"></div>
+
+<!-- 第二行：Streak 卡片单独靠左显示，大数字在左边 -->
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Morrow7&theme=light&hide_border=true" alt="GitHub Streak" />
 
 <div style="clear:both;"></div>
