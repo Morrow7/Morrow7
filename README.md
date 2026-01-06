@@ -13,7 +13,7 @@
 🛠️我的技术栈
 ### 🔧 我的技术栈 / Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,python,java,spring,git,zed,vscode,idea,firebase&perline=8&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,python,java,spring,git,zed,vscode,idea=8&theme=white)
 
 
 
