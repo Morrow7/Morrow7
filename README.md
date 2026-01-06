@@ -37,16 +37,16 @@
 
 ### 📊 我的 GitHub 活动 / GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=light&hide_border=true&count_private=true&include_all_commits=true" alt="Morrow's GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Morrow7&show_icons=true&theme=light&hide_border=true&count_private=true&include_all_commits=true" alt="Morrow's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=light&hide_border=true&langs_count=10" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morrow7&layout=compact&theme=light&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=light&hide_border=true" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morrow7&theme=light&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
