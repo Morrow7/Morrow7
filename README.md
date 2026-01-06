@@ -10,7 +10,13 @@
  联系方式：susu997y@gmail.com
 
 🛠️我的技术栈
-这些不仅是我的技术，也是我最亲爱的朋友，我真心很高兴能与他们一起工作。
+### 🔧 我的技术栈 / Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,vue,react,nextjs,nodejs,java,Springboot,git,docker,vscode,IDEA,firebase&perline=8&theme=dark)
+
+- 前端：HTML, CSS, JavaScript, React, Next.js  
+- 后端：Node.js  
+- 工具：Git, Docker, VS Code  
 
 我的技能
 
