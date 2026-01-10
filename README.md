@@ -32,7 +32,7 @@
 
 - **前端**：JavaScript, TypeScript, Vue.js, React
 - **后端**：Python,Next.js,Java, Spring  
-- **工具**：Git, VS Code, IntelliJ IDEA  
+- **工具**：Git,Zed, VS Code, IntelliJ IDEA  
 
 ---
 
