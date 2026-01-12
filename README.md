@@ -36,13 +36,6 @@
 
 ---
 
-### 🚀 Contribution
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Morrow7/github-contribution-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Morrow7/github-contribution-snake.svg" />
-  <img alt="github contribution snake" src="https://github.com/Morrow7/github-contribution-snake.svg" />
-</picture>
-
 
 
 ### 🚀 Contribution
