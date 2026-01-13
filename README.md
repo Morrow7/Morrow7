@@ -1,6 +1,6 @@
 # Hi, I'm Morrow 👋
 
-嗨！我是 Morrow，一个热爱 coding 和自学的开发者。欢迎来到我的 GitHub 主页！
+嗨！我是 Morrow，19岁，一个热爱 coding 和自学的开发者。欢迎来到我的 GitHub 主页！
 
 ---
 
