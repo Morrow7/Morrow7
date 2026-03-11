@@ -13,6 +13,11 @@
 
 
 ---
+### 📊 My GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Morrow7&show_icons=true&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morrow7&theme=dracula&hide_border=true)
+
 
 ### 📫 联系我 / Get in Touch
 - **邮箱**： [susu997y@gmail.com](mailto:susu997y@gmail.com)
