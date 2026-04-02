@@ -34,7 +34,7 @@
 我掌握多种前后端技术和工具，以下是我的核心技能：
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,python,java,NestJS,spring,git,vscode,idea&perline=6&theme=light" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,python,java,nestjs,spring,git,vscode,idea&perline=6&theme=light" alt="My Skills" />
 </p>
 
 - **前端**：JavaScript, TypeScript, Vue.js, React
