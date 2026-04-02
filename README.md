@@ -38,7 +38,7 @@
 </p>
 
 - **前端**：JavaScript, TypeScript, Vue.js, React
-- **后端**：Python,Next.js,Java, Spring  
+- **后端**：Python,Next.js,Java, Spring,NestJS
 - **工具**：Git,Zed, VS Code, IntelliJ IDEA  
 
 ---
