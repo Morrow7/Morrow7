@@ -41,10 +41,8 @@
 我掌握多种前后端技术和工具，以下是我的核心技能：
 
 &lt;p align="center"&gt;
-  &lt;!-- 去掉空格，移除不支持的 supabase/railway/spark --&gt;
-  &lt;img src="https://skillicons.dev/icons?i=html5,css3js,ts,vue,react,nextjs,python,java,nestjs,springboot,mysql,git,vscode,linux,idea&perline=6&theme=light" alt="My Skills" /&gt;
+  &lt;img src="https://skillicons.dev/icons?i=html5,css3,js,ts,vue,react,nextjs,python,java,nestjs,spring,mysql,git,vscode,linux,idea&perline=6&theme=light" alt="My Skills" /&gt;
   &lt;br&gt;&lt;br&gt;
-  &lt;!-- 用 Badge 补充 skillicons 不支持的 --&gt;
   &lt;img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /&gt;
   &lt;img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" /&gt;
   &lt;img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" /&gt;
