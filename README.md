@@ -1,10 +1,10 @@
 # Hi, I'm Morrow 👋
 
-嗨！我是 Morrow，19岁，一个热爱 coding 和自学的开发者。欢迎来到我的 GitHub 主页！
+嗨！我是 Morrow，19岁，一个热爱 coding 和自学的开发者。欢迎来到我的 GitHub 主页！、
 
 ---
 - 把灵魂敞开，去迎接另一个灵魂的到来！
-- 金钱买不到天然的文雅，地位不总是赠予高贵的气质，良好的教养会自然而然流露出来，外部条件的缺陷倒在其次。
+- 金钱买不到天然的文雅，地位不总是赠予高贵的气质，良好的教养会自然而然流露出来，外部条件的缺陷倒在其次。、
 - 攥紧你手中的火炬，首先照亮自己的灵魂，发现自己其中的深刻与肤浅、虚荣与慷慨，认清自己的意义，无论是真实或是平凡。
 
 ---
@@ -21,18 +21,17 @@
 ### 👯 合作与社区 / Looking to Collaborate
 我想和志同道合的开发者一起构建更美好的代码世界。如果你对前端、后端或全栈开发感兴趣，欢迎一起交流想法或贡献开源项目!
 
----
 
+---
 ### 📊 My GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Morrow7&show_icons=true&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morrow7&theme=dracula&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Morrow7&show_icons=true&theme=dracula&hide_border=true )
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morrow7&theme=dracula&hide_border=true )
 
----
 
 ### 📫 联系我 / Get in Touch
-- **邮箱**：[susu997y@gmail.com](mailto:susu997y@gmail.com)
-- **Twitter**：[@Morrow992887](https://x.com/Morrow992887)
+- **邮箱**： [susu997y@gmail.com](mailto:susu997y@gmail.com)
+- **Twitter**： [@Morrow992887](https://x.com/Morrow992887 )
 
 ---
 
@@ -40,31 +39,27 @@
 
 我掌握多种前后端技术和工具，以下是我的核心技能：
 
-&lt;p align="center"&gt;
-  &lt;img src="https://skillicons.dev/icons?i=html5,css3,js,ts,vue,react,nextjs,python,java,nestjs,spring,mysql,git,vscode,linux,idea&perline=6&theme=light" alt="My Skills" /&gt;
-  &lt;br&gt;&lt;br&gt;
-  &lt;img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /&gt;
-  &lt;img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" /&gt;
-  &lt;img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" /&gt;
-  &lt;img src="https://img.shields.io/badge/Zed-7B61FF?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js ,ts,vue,react,nextjs,python,java,nestjs,springBoot,mysql,git,github,vscode,linux,idea&perline=6&theme=light" alt="My Skills" />
+</p>
 
 - **前端**：JavaScript, TypeScript, Vue.js, React
-- **后端**：Python, Next.js, Java, SpringBoot, NestJS
-- **数据库**：MySQL, Supabase, Railway
-- **大数据**：Spark
-- **工具**：Git, Zed, VS Code, IntelliJ IDEA, Linux
+- **后端**：Python,Next.js,Java, SpringBoot,NestJS
+- **数据库**:Mysql,Supbase,Railway
+- **工具**：Git,Github,Zed,VS Code, IntelliJ IDEA,Linux
 
 ---
 
+
+
 ### 🚀 Contribution
-&lt;picture&gt;
-  &lt;source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" /&gt;
-  &lt;source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" /&gt;
-  &lt;img alt="github-snake" src="./assets/contribution-snake.svg" /&gt;
-&lt;/picture&gt;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
+  <img alt="github-snake" src="./assets/contribution-snake.svg" />
+</picture>
 
 ---
 
 感谢访问我的主页！  
-期待与你一起成长 🚀
+期待与你一起成长 🚀   我这样有什么错误吗
