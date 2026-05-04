@@ -1,25 +1,33 @@
 # Hi, I'm Morrow 👋
 
-嗨！我是 Morrow，19岁，一个热爱 coding 和自学的开发者。欢迎来到我的 GitHub 主页！、
+Hi! I'm Morrow, 19 years old, a developer who loves coding and self-learning. Welcome to my GitHub homepage!
 
 ---
-- 把灵魂敞开，去迎接另一个灵魂的到来！
-- 金钱买不到天然的文雅，地位不总是赠予高贵的气质，良好的教养会自然而然流露出来，外部条件的缺陷倒在其次。、
-- 攥紧你手中的火炬，首先照亮自己的灵魂，发现自己其中的深刻与肤浅、虚荣与慷慨，认清自己的意义，无论是真实或是平凡。
+- Open your soul to welcome another soul!
+
+- Money can't buy natural elegance, and status doesn't always bestow noble qualities. Good upbringing will naturally shine through; external deficiencies are secondary.
+
+- Grasp the torch in your hand tightly, first illuminating your own soul, discovering your depth and shallowness, vanity and generosity, recognizing your own meaning, whether real or ordinary.
 
 ---
 
-### 🌱 目前在学习 / What I'm Learning
-- **Next.js**：一个由 Vercel 开发的开源 React 框架，用于构建高性能、全栈 Web 应用。
-- **NestJS**：基于 TypeScript 的 Node.js 后端框架，采用模块化 + 依赖注入架构，适合构建企业级 API 服务。
-- **计算机四大件**:
-  - 数据结构与算法 — 代码效率与竞赛根基
-  - 计算机组成原理 — 硬件运行原理与性能瓶颈
-  - 操作系统 — 进程线程、内存管理、并发 IO
-  - 计算机网络 — TCP/IP、HTTP、Web 通信与安全
+### 🌱 What I'm Learning
 
-### 👯 合作与社区 / Looking to Collaborate
-我想和志同道合的开发者一起构建更美好的代码世界。如果你对前端、后端或全栈开发感兴趣，欢迎一起交流想法或贡献开源项目!
+- **Next.js**: An open-source React framework developed by Vercel for building high-performance, full-stack web applications.
+
+- **NestJS**: A TypeScript-based Node.js backend framework with a modular + dependency injection architecture, suitable for building enterprise-level API services.
+
+- **The Four Core Elements of a Computer:**
+
+- Data Structures and Algorithms — Code Efficiency and the Foundation of Competitions
+
+- Computer Organization — Hardware Operating Principles and Performance Bottlenecks
+
+- Operating Systems — Processes, Threads, Memory Management, Concurrent I/O
+
+- Computer Networks — TCP/IP, HTTP, Web Communication and Security
+
+### 👯 Collaboration and Community / Looking to Collaborate I want to build a better world of code with like-minded developers. If you are interested in front-end, back-end, or full-stack development, welcome to exchange ideas or contribute open-source projects!
 
 
 ---
