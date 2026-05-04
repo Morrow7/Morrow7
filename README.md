@@ -70,4 +70,4 @@ Hi! I'm Morrow, 19 years old, a developer who loves coding and self-learning. We
 ---
 
 感谢访问我的主页！  
-期待与你一起成长 🚀   我这样有什么错误吗
+期待与你一起成长 🚀  
