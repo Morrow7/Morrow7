@@ -27,7 +27,8 @@ Hi! I'm Morrow, 19 years old, a developer who loves coding and self-learning. We
 
 - Computer Networks — TCP/IP, HTTP, Web Communication and Security
 
-### 👯 Collaboration and Community / Looking to Collaborate I want to build a better world of code with like-minded developers. If you are interested in front-end, back-end, or full-stack development, welcome to exchange ideas or contribute open-source projects!
+### 👯 Collaboration and Community / Looking to Collaborate 
+I want to build a better world of code with like-minded developers. If you are interested in front-end, back-end, or full-stack development, welcome to exchange ideas or contribute open-source projects!
 
 
 ---
