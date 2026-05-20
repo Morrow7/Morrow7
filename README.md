@@ -69,30 +69,27 @@ If you're interested in **front-end**, **back-end**, or **full-stack development
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,python,java,nestjs,spring,mysql,git,github,vscode,linux,idea&perline=5&theme=light" alt="Tech Stack" />
+
+<!-- Front-end -->
+<img src="https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,tailwind&perline=12&theme=light" alt="Front-end Tech" />
+
+<!-- Back-end -->
+<img src="https://skillicons.dev/icons?i=python,java,nestjs,spring,nodejs&perline=12&theme=light" alt="Back-end Tech" />
+
+<!-- Database & Platform -->
+<img src="https://skillicons.dev/icons?i=mysql,supabase,railway,redis&perline=12&theme=light" alt="Database & Platform" />
+
+<!-- Tools & DevOps -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,docker&perline=12&theme=light" alt="Tools & DevOps" />
+
+<!-- AI & Automation -->
+<img src="https://skillicons.dev/icons?i=openai&perline=12&theme=light" alt="AI & Automation" />
+
 </div>
-
-### Front-end
-- JavaScript
-- TypeScript
-- Vue.js
-- React
-- Next.js
-
-### Back-end
-- Python
-- Java
-- NestJS
-- Spring Boot
-- Next.js API
-
-### Database / Platform
-- MySQL
-- Supabase
-- Railway
 
 ### Tools
 - Git
