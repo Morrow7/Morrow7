@@ -38,13 +38,7 @@
 
 * **Next.js** — A powerful React framework by Vercel for building high-performance full-stack applications.
 * **NestJS** — A TypeScript-based backend framework with modular architecture and dependency injection, great for scalable API services.
-
-### 🧠 Computer Science Fundamentals
-
-* **Data Structures & Algorithms** — the foundation of efficient code
-* **Computer Organization** — understanding how hardware really works
-* **Operating Systems** — processes, threads, memory, concurrency, I/O
-* **Computer Networks** — TCP/IP, HTTP, communication, and security
+* **Vue-Bits Contributions** — Ported React-bits components to Vue-bits and created examples and documentation to facilitate developer adoption.
 
 ---
 
