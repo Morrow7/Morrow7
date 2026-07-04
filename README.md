@@ -69,7 +69,7 @@ If you're interested in **front-end**, **back-end**, or **full-stack development
 </div>
 
 * **Front-end:** JavaScript, TypeScript, Vue.js, React, Next.js, Tailwind CSS
-* **Back-end:** Python, Java, Node.js, NestJS, Spring Boot, Next.js API
+* **Back-end:** Python, Java, Node.js, NestJS, Spring Boot, Next.js API，C++
 * **Database & Platform:** MySQL, Supabase, Railway, Redis
 * **Tools & DevOps:** Git, GitHub, VS Code, IntelliJ IDEA, Linux, Docker
 * **AI & Automation:** AI assistant development, Trae / Codex, Self-built Skill Tools
