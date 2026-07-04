@@ -4,9 +4,11 @@
 
 ### A 19-year-old developer passionate about coding, self-learning, and building meaningful things.
 
-[![GitHub followers](https://img.shields.io/github/followers/Morrow7?style=flat-square)](https://github.com/Morrow7)
-[![GitHub stars](https://img.shields.io/github/stars/Morrow7?style=flat-square)](https://github.com/Morrow7)
-[![Profile Views](https://komarev.com/ghpvc/?username=Morrow7\&style=flat-square)](https://github.com/Morrow7)
+<p align="center">
+  <a href="https://github.com/Morrow7"><img src="https://img.shields.io/github/followers/Morrow7?style=flat-square&logo=github&color=6e5494" alt="GitHub followers"></a>
+  <a href="https://github.com/Morrow7"><img src="https://img.shields.io/github/stars/Morrow7?style=flat-square&logo=github&color=dfb317" alt="GitHub stars"></a>
+  <a href="https://github.com/Morrow7"><img src="https://komarev.com/ghpvc/?username=Morrow7&style=flat-square&color=blue" alt="Profile Views"></a>
+</p>
 
 </div>
 
@@ -14,11 +16,11 @@
 
 ## 🙋 About Me
 
-* 🎂 **19 years old**
-* 💻 Focused on **Front-end / Full-stack Development**
-* 🌱 Passionate about **coding, design, self-learning, and open source**
-* 🚀 Currently exploring **Next.js**, **NestJS**, and **Computer Science Fundamentals**
-* 🤝 Always happy to connect with developers who love building cool things
+* 🎂 **19 years old** | Continuous Learner & Tech Enthusiast.
+* 💻 Focused on **Front-end / Full-stack Development** and exploring **Computer Science Fundamentals**.
+* 🌱 Passionate about **clean code, open source, and elegant UI/UX design**.
+* 🚀 Currently diving deep into **Next.js**, **NestJS**, and AI-driven development.
+* 🤝 Always excited to connect with developers who love building cool, real-world things.
 
 ---
 
@@ -32,20 +34,14 @@
 
 ---
 
-## 🌱 What I'm Learning
+## 🚀 Featured Project & Learning
 
 ### ⚡ Frameworks & Engineering
-
 * **Next.js** — A powerful React framework by Vercel for building high-performance full-stack applications.
-* **NestJS** — A TypeScript-based backend framework with modular architecture and dependency injection, great for scalable API services.
-* **Vue-Bits Contributions** — Ported React-bits components to Vue-bits and created examples and documentation to facilitate developer adoption.
+* **NestJS** — A TypeScript-based backend framework with modular architecture, perfect for scalable API services.
 
----
-
-## 👯 Looking to Collaborate
-
-I’d love to build a better world of code with like-minded developers.
-If you're interested in **front-end**, **back-end**, or **full-stack development**, feel free to reach out, exchange ideas, or collaborate on open-source projects.
+### 👥 Open Source Contributions
+* **Vue-Bits** — Ported React-bits components to Vue-bits, creating comprehensive examples and documentation to facilitate developer adoption.
 
 ---
 
@@ -53,8 +49,8 @@ If you're interested in **front-end**, **back-end**, or **full-stack development
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Morrow7\&show_icons=true\&theme=dracula\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morrow7\&layout=compact\&theme=dracula\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Morrow7&show_icons=true&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morrow7&layout=compact&theme=dracula&hide_border=true)
 
 </div>
 
@@ -64,19 +60,19 @@ If you're interested in **front-end**, **back-end**, or **full-stack development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,tailwind,python,java,nestjs,spring,nodejs,mysql,supabase,railway,redis,git,github,vscode,idea,linux,docker,openai&perline=24&theme=light" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,tailwind,python,java,cpp,nestjs,spring,nodejs,mysql,supabase,railway,redis,git,github,vscode,idea,linux,docker,openai&perline=12&theme=dark" alt="Tech Stack" />
 
 </div>
 
-* **Front-end:** JavaScript, TypeScript, Vue.js, React, Next.js, Tailwind CSS
-* **Back-end:** Python, Java, Node.js, NestJS, Spring Boot, Next.js API，C++
-* **Database & Platform:** MySQL, Supabase, Railway, Redis
-* **Tools & DevOps:** Git, GitHub, VS Code, IntelliJ IDEA, Linux, Docker
-* **AI & Automation:** AI assistant development, Trae / Codex, Self-built Skill Tools
+* 🌐 **Front-end:** JavaScript, TypeScript, Vue.js, React, Next.js, Tailwind CSS
+* ⚙️ **Back-end & Core:** Node.js, NestJS, Java, Spring Boot, Python, C++
+* 🗄️ **Database & Cloud:** MySQL, Redis, Supabase, Railway
+* 🔧 **Tools & DevOps:** Git, GitHub, Linux, Docker, VS Code, IntelliJ IDEA
+* 🤖 **AI & Automation:** OpenAI API, Trae / Codex, Custom AI Skill Tools
 
 ---
 
-## 🚀 Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -92,15 +88,15 @@ If you're interested in **front-end**, **back-end**, or **full-stack development
 
 ## 📫 Get in Touch
 
-* **Email:** [susu997y@gmail.com](mailto:susu997y@gmail.com)
-* **Twitter / X:** [@Morrow992887](https://x.com/Morrow992887)
+* 📧 **Email:** [susu997y@gmail.com](mailto:susu997y@gmail.com)
+* 🐦 **Twitter / X:** [@Morrow992887](https://x.com/Morrow992887)
+* 🐙 **GitHub:** [@Morrow7](https://github.com/Morrow7)
 
 ---
 
 <div align="center">
 
 ### Thanks for visiting my profile ✨
-
-**Let’s grow and build together 🚀**
+**Let’s grow, collaborate, and build a better world of code 🚀**
 
 </div>
