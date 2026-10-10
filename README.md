@@ -2,8 +2,9 @@
 <div align="center">
 
 <!-- ======================================= -->
-<!-- MORROW / SAKURA GLACIER V6.0            -->
+<!-- MORROW / SAKURA GLACIER V6.2            -->
 <!-- Pink × Blue Animated GitHub Profile    -->
+<!-- Original Snake Workflow Version        -->
 <!-- ======================================= -->
 
 <!-- ANIMATED HEADER -->
@@ -31,9 +32,11 @@
 <a href="https://github.com/Morrow7?tab=followers">
   <img src="https://img.shields.io/github/followers/Morrow7?style=flat-square&logo=github&color=F472B6&labelColor=EFF6FF" alt="GitHub Followers" />
 </a>
+
 <a href="https://github.com/Morrow7">
   <img src="https://komarev.com/ghpvc/?username=Morrow7&style=flat-square&color=60A5FA&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
+
 <a href="https://github.com/Morrow7">
   <img src="https://img.shields.io/github/stars/Morrow7?style=flat-square&logo=github&color=F472B6&labelColor=EFF6FF" alt="GitHub Stars" />
 </a>
@@ -214,29 +217,34 @@ Contributed to bringing React-Bits components into the Vue ecosystem, including 
 </div>
 
 <!-- ======================================= -->
-<!-- 05 PINK BLUE CONTRIBUTION SNAKE         -->
+<!-- 05 CONTRIBUTION SNAKE                   -->
 <!-- ======================================= -->
 
 ## 05 / CONTRIBUTION SNAKE
 
-
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Morrow7/Morrow7/output/github-contribution-grid-snake-dark.svg?v=pinkblue2"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Morrow7/Morrow7/output/github-contribution-grid-snake.svg?v=pinkblue2"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Morrow7/Morrow7/output/github-contribution-grid-snake.svg?v=pinkblue2"
-      width="100%"
-      alt="Pink Blue Contribution Snake"
-    />
-  </picture>
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=17&duration=3000&pause=1200&color=EC4899&center=true&vCenter=true&width=680&height=55&lines=EVERY+COMMIT+IS+PROGRESS;ONE+STEP+FORWARD%2C+EVERY+DAY.;COMMIT.+LEARN.+EVOLVE." alt="Contribution Animation" />
+
+<br/>
+
+<!-- ORIGINAL SNAKE.YML OUTPUT FILENAMES -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Morrow7/Morrow7/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Morrow7/Morrow7/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Morrow7/Morrow7/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 <br/>
 
