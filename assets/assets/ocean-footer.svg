@@ -1,1 +1,19 @@
 
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="145" viewBox="0 0 1200 145">
+  <defs>
+    <linearGradient id="sea">
+      <stop stop-color="#F9A8D4"/>
+      <stop offset=".5" stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#93C5FD"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 55Q150 0 300 55T600 55T900 55T1200 55V145H0Z" fill="url(#sea)" opacity=".65">
+    <animate attributeName="d"
+      values="M0 55Q150 0 300 55T600 55T900 55T1200 55V145H0Z;M0 65Q150 105 300 55T600 55T900 55T1200 65V145H0Z;M0 55Q150 0 300 55T600 55T900 55T1200 55V145H0Z"
+      dur="8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 90Q150 45 300 90T600 90T900 90T1200 90V145H0Z" fill="#60A5FA" opacity=".28">
+    <animate attributeName="opacity" values=".2;.5;.2" dur="6s" repeatCount="indefinite"/>
+  </path>
+</svg>
