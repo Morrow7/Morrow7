@@ -1,0 +1,28 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130">
+  <defs>
+    <linearGradient id="flow">
+      <stop stop-color="#F472B6"/>
+      <stop offset=".5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="130" rx="18" fill="#F2F0FC"/>
+  <path id="track" d="M120 65H880" fill="none" stroke="url(#flow)" stroke-width="3"/>
+  <g fill="#E2E8F0" stroke="#A5B4FC" stroke-width="2">
+    <rect x="45" y="35" width="150" height="60" rx="14"/>
+    <rect x="298" y="35" width="150" height="60" rx="14"/>
+    <rect x="551" y="35" width="150" height="60" rx="14"/>
+    <rect x="804" y="35" width="150" height="60" rx="14"/>
+  </g>
+  <g fill="#37466F" font-family="monospace" font-size="20" font-weight="bold" text-anchor="middle">
+    <text x="120" y="72">IDEA</text>
+    <text x="373" y="72">DESIGN</text>
+    <text x="626" y="72">BUILD</text>
+    <text x="879" y="72">SHIP</text>
+  </g>
+  <circle r="6" fill="#EC4899">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M120 65H880"/>
+    <animate attributeName="fill" values="#EC4899;#60A5FA;#EC4899" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
