@@ -219,27 +219,24 @@ Contributed to bringing React-Bits components into the Vue ecosystem, including 
 
 ## 05 / CONTRIBUTION SNAKE
 
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=17&duration=3000&pause=1200&color=EC4899&center=true&width=680&height=55&lines=EVERY+COMMIT+IS+PROGRESS;ONE+STEP+FORWARD%2C+EVERY+DAY.;COMMIT.+LEARN.+EVOLVE." alt="Contribution Animation" />
-
-<br/>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Morrow7/Morrow7/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Morrow7/Morrow7/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/Morrow7/Morrow7/output/github-contribution-grid-snake.svg"
-    alt="Pink Blue GitHub Contribution Snake"
-  />
-</picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Morrow7/Morrow7/output/github-contribution-grid-snake-dark.svg?v=pinkblue2"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Morrow7/Morrow7/output/github-contribution-grid-snake.svg?v=pinkblue2"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Morrow7/Morrow7/output/github-contribution-grid-snake.svg?v=pinkblue2"
+      width="100%"
+      alt="Pink Blue Contribution Snake"
+    />
+  </picture>
+</div>
 
 <br/>
 
