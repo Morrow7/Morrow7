@@ -12,7 +12,6 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Generate Pink Blue Snake
@@ -20,10 +19,10 @@ jobs:
         with:
           github_user_name: Morrow7
           outputs: |
-            dist/pink-blue-snake.svg?color_snake=#EC4899&color_dots=#FFF1F8,#FBCFE8,#F9A8D4,#93C5FD,#3B82F6
-            dist/pink-blue-snake-dark.svg?color_snake=#F472B6&color_dots=#0F172A,#334155,#F9A8D4,#60A5FA,#2563EB
+            dist/github-contribution-grid-snake.svg?color_snake=%23EC4899&color_dots=%23FFF1F8,%23FBCFE8,%23F9A8D4,%2393C5FD,%233B82F6
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23F472B6&color_dots=%230F172A,%23334155,%23F9A8D4,%2360A5FA,%232563EB
 
-      - name: Publish New Snake
+      - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
