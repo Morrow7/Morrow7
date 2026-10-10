@@ -1,15 +1,10 @@
 
-name: Generate Blue Snake
+name: Generate Pink Blue Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -20,15 +15,15 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate blue contribution snake
+      - name: Generate Pink Blue Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Morrow7
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%232563EB&color_dots=%23EBF5FF,%23BFDBFE,%2393C5FD,%233B82F6,%231D4ED8
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2338BDF8&color_dots=%230D1117,%230C4A6E,%230369A1,%230EA5E9,%2367E8F9
+            dist/github-contribution-grid-snake.svg?color_snake=%23EC4899&color_dots=%23FFF1F8,%23FBCFE8,%23F9A8D4,%23BFDBFE,%2360A5FA
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23F472B6&color_dots=%230F172A,%23334155,%237C3AED,%23EC4899,%2360A5FA
 
-      - name: Publish snake to output branch
+      - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
