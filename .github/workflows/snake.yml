@@ -21,7 +21,7 @@ jobs:
           github_user_name: Morrow7
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%23EC4899&color_dots=%23FFF1F8,%23FBCFE8,%23F9A8D4,%23BFDBFE,%2360A5FA
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23F472B6&color_dots=%230F172A,%23334155,%237C3AED,%23EC4899,%2360A5FA
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23F472B6&color_dots=%230F172A,%23334155,%23A78BFA,%23EC4899,%2360A5FA
 
       - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
